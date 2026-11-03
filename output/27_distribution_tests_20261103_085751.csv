@@ -1,0 +1,3 @@
+column,test,statistic,p_value,reject_H0_alpha_0.05
+x,uniform (Kolmogorov-Smirnov),0.007562939035020255,1.0,False
+y,normal (D'Agostino-Pearson),20.931351895808767,2.8498019968164997e-05,True

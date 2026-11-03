@@ -1,0 +1,3 @@
+column	minmax_forward_max_diff	minmax_inverse_max_diff	zscore_forward_max_diff	zscore_inverse_max_diff
+x	1.1102230246251565e-16	1.4210854715202004e-14	0.0	7.105427357601002e-15
+y	1.1102230246251565e-16	1.1368683772161603e-13	0.0	1.1368683772161603e-13

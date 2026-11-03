@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+/Lab1_Dataset.xlsx
+/data/*.xlsx
+*.pdf
